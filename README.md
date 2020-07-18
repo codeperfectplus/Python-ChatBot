@@ -1,9 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Python%20ChatBot&fontSize=90)
-
-
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-360/)
+![issues](https://img.shields.io/github/issues/codePerfectPlus/Python-ChatBot?style=plastic)
+![forks](https://img.shields.io/github/forks/codePerfectPlus/Python-ChatBot)
+![stars](https://img.shields.io/github/stars/codePerfectPlus/Python-ChatBot)
+![License](https://img.shields.io/github/license/codePerfectPlus/Python-ChatBot)
 
 ![Visitor Count](https://profile-counter.glitch.me/python-chatbot/count.svg)
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Python%20ChatBot&fontSize=90)
+
 
 This article was originally published at http://codeperfectplus.herokuapp.com/build-your-first-python-chatbot-in-5-minutes
 
