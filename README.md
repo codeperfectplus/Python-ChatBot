@@ -1,4 +1,5 @@
-# Python ChatBot
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Python%20ChatBot&fontSize=90)
+
 
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
@@ -20,3 +21,10 @@ The Rules Based:- Rules based chatobots trains a chatbot to answer question base
 
 Self learning chatbot:- Self learning chatbots are based on machine learning algorithms and they are smarter than rules based chatbots. They can learn on their own.
 
+## Author
+
+- Project: [Python Chatbot](https://github.com/codePerfectPlus/Python-ChatBot/)
+- Author: CodePerfectPlus
+- Language: Pyton
+- Github: <https://github.com/codePerfectPlus>
+- Website: <http://codeperfectplus.herokuapp.com/>
